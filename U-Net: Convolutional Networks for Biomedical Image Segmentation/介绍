@@ -1,2 +1,3 @@
 U-Net: Convolutional Networks for Biomedical Image Segmentation
 复现此篇文章，具体看代码和注释
+但是在复现过程中发现现存不足，所以使用了较小的网络和更小的图片
